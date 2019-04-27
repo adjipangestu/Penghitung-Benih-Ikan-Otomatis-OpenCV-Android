@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CMO</string>
+    <string name="title_activity_welcome">Counter Many Objects</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello World!</string>
+    <string name="slide_1_desc">Selamat datang di aplikasi Counter Many Objects</string>
+
+    <string name="slide_2_title">Steep 1</string>
+    <string name="slide_2_desc">Pastikan latar tempat tidak sama dengan warna ikan</string>
+
+    <string name="slide_3_title">Steep 2</string>
+    <string name="slide_3_desc">Usahakan benih tidak terlalu banyak, sehingga tidak berdempetan</string>
+
+    <string name="slide_4_title">Steep 3</string>
+    <string name="slide_4_desc">Atur pencahayaan, jagan terlalu cerah atau terlalu gelap</string>
+
+    <string name="slide_5_title">Steep 4</string>
+    <string name="slide_5_desc">Download OpenCV Manger di Play Store</string>
+
+    <string name="slide_6_title">Steep 5</string>
+    <string name="slide_6_desc">Ketinggian air maksimal 10 cm</string>
+
+    <string name="play_again_desc">Counter Many Objects</string>
+    <string name="play_again">Tips</string>
+    <string name="btn_quotes">Hitung</string>
+    <string name="btn_authors">Tips</string>
+    <string name="counter_many_objects">Counter Many Objects</string>
+    <string name="hitung">Hitung</string>
+    <string name="trips">Trips</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="counter_many_objectss">Counter Many Objects</string>
+    <string name="ilkom">Ilmu Komputer Unila</string>
+    <string name="title_about">About</string>
+
+    <string name="about_description"><![CDATA[<br/><br/>Counter Many Object (CMO) dikembangkan oleh mahasiswa Ilmu Komputer Universitas Lampung
+                            (<a href=\'http://ilkom.unila.ac.id\'>ILKOM UNILA</a>)
+                            <br/><br/>Kunjungi website kami untuk info lebih lanjut:
+                            <br/> <a href=\'http://cmodevelopment.azurewebsites.net\'>http://cmodevelopment.azurewebsites.net/</a>
+                            <br/><br/>CMO adalah aplikasi bersabasis android yang di gunakan untuk menghitung benih ikan otomatis.
+                            Kritik dan saran untuk kami, kirimkan email ke :
+                            <br/><a href=\'adji.ngapak@gmail.com\'>adji.ngapak@gmail.com</a>
+                            <br/><br/>
+                            For this development, we use several open source libraries that are shown below:
+    "]]></string>
+
+</resources>
